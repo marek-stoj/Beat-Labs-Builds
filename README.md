@@ -1,6 +1,8 @@
 # Beat Labs Builds
 
-Go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds/releases) to download the game.
+Go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds/releases) to download the game directly (APK).
+
+Or [install the game from SideQuest](https://sidequestvr.com/app/3832/beat-labs).
 
 ## Links
 
