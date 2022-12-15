@@ -1,8 +1,8 @@
 # Beat Labs Builds
 
-In order to download the game, go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds/releases).
+Go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds/releases) to download the game.
 
-# Links
+## Links
 
 - [Project Home Page](https://www.beatlabs.dev/)
 - [Discord](https://discord.gg/FkH5bzqq6E)
