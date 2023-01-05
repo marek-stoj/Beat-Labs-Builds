@@ -1,4 +1,4 @@
-# Beat Labs Builds
+# Beat Labs Builds (for Oculus Quest)
 
 Go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds/releases) to download the game directly (APK).
 
