@@ -4,7 +4,7 @@ Go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds/releases) to dow
 
 Or [install the game from SideQuest](https://sidequestvr.com/app/3832/beat-labs).
 
-_NOTE: Builds for Pico are in a different repository: [Beat-Labs-Builds-Pico](https://github.com/marek-stoj/Beat-Labs-Builds-Pico/releases)._
+_NOTE: Builds for Pico are in a different repository: [Beat-Labs-Builds-Pico](https://github.com/marek-stoj/Beat-Labs-Builds-Pico)._
 
 ## Links
 
