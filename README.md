@@ -17,8 +17,7 @@ We’re doing it in the open so [come and join the discussion on our Discord](ht
 ## Links
 
 - [Website](https://www.beatlabs.dev/)
-- [SideQuest (version for Quest)](https://sidequestvr.com/app/3832/beat-labs)
-- [SideQuest (version for Pico)](https://sidequestvr.com/app/12483/beat-labs-for-pico)
+- [SideQuest](https://sidequestvr.com/app/3832/beat-labs)
 - [Facebook](https://www.facebook.com/BeatLabsGame)
 - [Discord](https://dsc.gg/beatlabs?ref=gh)
 - [itch.io](https://marek-stoj.itch.io/beat-labs)
